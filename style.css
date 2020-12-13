@@ -87,7 +87,9 @@ button{
         width: 100%;
     }
     .batn{
-        margin-left: 35px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
         width: 100px;
         height: 35px;
         font-size: 10px;
