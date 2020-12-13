@@ -87,6 +87,7 @@ button{
         width: 100%;
     }
     .batn{
+        display:flex;
         text-align: center;
         align-items: center;
         justify-content: center;
